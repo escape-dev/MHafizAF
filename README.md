@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHafizAF
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Codeigniter and Android Studio
+- 🌱 I’m currently learning Laravel
 
 <!---
 MHafizAF/MHafizAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
