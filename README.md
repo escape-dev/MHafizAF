@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hafiz Al Fikri</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel and PHP**
+- 🌱 I’m currently learning php language and laravel framework
 
 - 📫 How to reach me **hafiz170301@gmail.com**
 
