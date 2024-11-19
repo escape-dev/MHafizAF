@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, my name is Muhammad Hafiz Al Fikri, and I am a backend engineer from Indonesia. I am passionate about learning and constantly striving to improve my development skills.
+Hi 👋, I'm Muhammad Hafiz Al Fikri, a backend engineer with experience in Ruby on Rails, always eager to learn and improve my development skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhafiz_021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizalfikri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19263552) 
